@@ -14,7 +14,12 @@
   ],
   "author": "",
   "peerDependencies": {
-    "react-native": "0.61.5",
-    "react": "16.9.0"
-  }
+    "react": "16.9.0",
+    "react-native": "0.61.5"
+  },
+  "dependencies": {
+    "react-native-calendars": "^1.1287.0"
+  },
+  "podDependencies": {},
+  "nativeDependencies": {}
 }
